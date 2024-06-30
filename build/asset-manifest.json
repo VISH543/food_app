@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fbcddaef.css",
+    "main.js": "/static/js/main.18516d28.js",
+    "static/js/787.7fe0dfbc.chunk.js": "/static/js/787.7fe0dfbc.chunk.js",
+    "static/media/chad-montano-MqT0asuoIcU-unsplash.jpg": "/static/media/chad-montano-MqT0asuoIcU-unsplash.67f474f0beae80cbdbbf.jpg",
+    "static/media/davide-cantelli-jpkfc5_d-DI-unsplash.jpg": "/static/media/davide-cantelli-jpkfc5_d-DI-unsplash.f7506bae6d36fa2721e2.jpg",
+    "static/media/anna-tukhfatullina-food-photographer-stylist-Mzy-OjtCI70-unsplash.jpg": "/static/media/anna-tukhfatullina-food-photographer-stylist-Mzy-OjtCI70-unsplash.2ddfa49d58b72c5d72f8.jpg",
+    "index.html": "/index.html",
+    "main.fbcddaef.css.map": "/static/css/main.fbcddaef.css.map",
+    "main.18516d28.js.map": "/static/js/main.18516d28.js.map",
+    "787.7fe0dfbc.chunk.js.map": "/static/js/787.7fe0dfbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbcddaef.css",
+    "static/js/main.18516d28.js"
+  ]
+}

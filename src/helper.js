@@ -1,0 +1,1 @@
+export const BASE_URL = "https://mernbackend-0gym.onrender.com"
